@@ -1,0 +1,36 @@
+.songItemContainer{
+    margin-top: 34px;
+}
+.songItem{
+    height: 50px;
+    display: flex;
+    background-color: #f6f6f6;
+    color: black;
+    width: 85%;
+    margin: 12px 0;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 34px;
+    font-size: 12px;
+}
+.songItem img{
+    width: 43px;
+    margin: 0 12px;
+    border-radius: 34px;
+}
+
+.timestamp{
+    margin: 0 23px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.playBtn{
+    border: none;
+    background-color: #f6f6f6;
+}
+.playBtn i{
+    cursor: pointer;
+    font-size: 24px;
+    margin-left: 4px;
+}

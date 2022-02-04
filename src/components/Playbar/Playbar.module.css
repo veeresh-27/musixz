@@ -1,0 +1,23 @@
+.container{
+    position: relative;
+    min-height: 90vh;
+}
+
+.playbar{
+    min-height: 72vh;
+    background-color: black;
+    color: #f6f6f6;
+    font-family: 'Varela Round', sans-serif;
+    display: flex;
+    margin: 16px auto;
+    width: 80%;
+    border-radius: 12px;
+    padding: 34px;
+    background-image: url('../../Utils/bg.jpg');
+    background-size: cover;
+    
+    
+}
+
+
+

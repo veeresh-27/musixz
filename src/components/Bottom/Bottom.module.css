@@ -1,0 +1,33 @@
+.bottom{
+    position: absolute;
+    height: 100px;
+    background-color: black;
+    bottom: 2;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #f6f6f6;
+    
+}
+
+.bottom .icons{
+    margin-top:12px ;
+}
+
+.myProgressBar{
+    width: 80vw;
+    cursor: pointer;
+}
+
+.songInfo{
+    position: absolute;
+    left: 9vw;
+}
+.icons button{
+    border: none;
+    background-color: black;
+    color: #f6f6f6;
+    cursor: pointer;
+}
